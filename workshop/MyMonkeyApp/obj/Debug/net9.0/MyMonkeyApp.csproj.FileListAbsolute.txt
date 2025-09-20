@@ -1,0 +1,15 @@
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.deps.json
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.runtimeconfig.json
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.dll
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.pdb
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.AssemblyInfoInputs.cache
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.AssemblyInfo.cs
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.csproj.CoreCompileInputs.cache
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.sourcelink.json
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.dll
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/refint/MyMonkeyApp.dll
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.pdb
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.genruntimeconfig.cache
+/workspaces/VS_Code_Dev_Days_Practice/workshop/MyMonkeyApp/obj/Debug/net9.0/ref/MyMonkeyApp.dll
