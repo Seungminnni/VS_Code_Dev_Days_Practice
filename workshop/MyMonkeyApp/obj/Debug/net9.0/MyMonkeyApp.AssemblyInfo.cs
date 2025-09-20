@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyMonkeyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9bc43629e2160b32286ae1d82812d9b3c351bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04fb5202f37fe0dcb1bfd83841a3275bd6cb20b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyMonkeyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyMonkeyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
