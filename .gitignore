@@ -487,3 +487,7 @@ $RECYCLE.BIN/
 .vscode/mcp.json
 .vscode/settings.json
 workshop/
+
+# Allow the MyMonkeyApp project under workshop to be tracked
+!workshop/MyMonkeyApp/
+!workshop/MyMonkeyApp/**
